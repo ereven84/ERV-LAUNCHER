@@ -1,11 +1,11 @@
 {
-  "name": "Test",
+  "name": "DOWN",
   "version": "1.0",
   "plateforme": "windows",
   "appareils": ["cs"],
-  "dds": "01/08/2026",
+  "dds": "25/08/2026",
   "executable": "DOWN.exe",
-  "description": "Test du erv launcher",
-  "download_url": "",
+  "description": "goty 2026",
+  "download_url": "https://github.com/ereven84/ERV-LAUNCHER/releases/download/DOWN/down.exe.zip",
   "screens": ["screen1.png", "screen2.png", "screen3.png", "screen4.png"]
 }
